@@ -15,8 +15,12 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 		border: none;
 }
 #mypilot{
-	width: 50%;
+	width: 40%;
 	height: auto;
+}
+
+#dmufc{
+	width: auto;
 }
  /*Acknowledgement;
  the webiste was created using a template from w3schools
