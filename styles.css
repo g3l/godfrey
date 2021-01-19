@@ -26,6 +26,17 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
  #w3-bar-item {
  	onclick="this.style.backgroundColor = '#000'"
  }
+ #linkedin{
+ 	width: 200px;
+ 	padding-left: 10px;
+ }
+
+ .linkedinlogo:hover{ 
+ 	opacity:0.25;	
+ }
+ .linkedinlogo{ 
+ 	opacity:0.75;	
+ }
  /*Acknowledgement;
  the webiste was created using a template from w3schools
  https://www.w3schools.com/w3css/w3css_templates.asp
