@@ -44,6 +44,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 	display: block;
 	margin: auto;
 }
+.wrapper:hover{ 
+	background-color: gray;
+}
  /*Acknowledgement;
  the webiste was created using a template from w3schools
  https://www.w3schools.com/w3css/w3css_templates.asp
