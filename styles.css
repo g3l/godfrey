@@ -10,33 +10,40 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 .w3-black,.w3-hover-black:hover{color:#fff!important;background-color:#000!important}
 
 #JPMorgan {
-		width: 100%;
-		height: 740px;
-		border: none;
-}
-#mypilot{
-	width: 40%;
-	height: auto;
+	width: 100%;
+	height: 740px;
+	border: none;
 }
 
-#dmufc{
-	width: auto;
+#w3-bar-item {
+	onclick="this.style.backgroundColor = '#000'"
+}
+#linkedin{
+	width: 200px;
+	padding-left: 10px;
 }
 
- #w3-bar-item {
- 	onclick="this.style.backgroundColor = '#000'"
- }
- #linkedin{
- 	width: 200px;
- 	padding-left: 10px;
- }
+.linkedinlogo:hover{ 
+	opacity:0.25;	
+}
+.linkedinlogo{ 
+	opacity:0.75;	
+}
 
- .linkedinlogo:hover{ 
- 	opacity:0.25;	
- }
- .linkedinlogo{ 
- 	opacity:0.75;	
- }
+.wrapper{
+	border-style: ridge;
+	border-color: white;
+	margin-bottom: 10px;
+	overflow-wrap: normal;
+	width: 100%;
+	height: 300px;
+}
+.wrapper img{
+	float: left;
+	max-width: 40%;
+	display: block;
+	margin: auto;
+}
  /*Acknowledgement;
  the webiste was created using a template from w3schools
  https://www.w3schools.com/w3css/w3css_templates.asp
