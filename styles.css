@@ -22,7 +22,10 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 	width: 200px;
 	padding-left: 10px;
 }
-
+.bio{
+	color: white;
+}
+}
 .linkedinlogo:hover{ 
 	opacity:0.25;	
 }
