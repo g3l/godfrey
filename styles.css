@@ -22,65 +22,64 @@
 	.bio{
 		color: white;
 	}
-}
-.linkedinlogo{ 
-	opacity:0.75;	
-}
-.linkedinlogo:hover{ 
-	opacity:0.25;	
-}
+	.linkedinlogo{ 
+		opacity:0.75;	
+	}
+	.linkedinlogo:hover{ 
+		opacity:0.25;	
+	}
 
-.wrapper{
-	border-style: ridge;
-	border-color: white;
-	margin-bottom: 10px;
-	overflow-wrap: normal;
-	width: 100%;
-	height: auto;
-	padding: 10px;
-}
-.wrapper img{
-	max-width: 40%;
-	display: block;
-	margin: auto;
-}
-.wrapper:hover{ 
-	background-color: gray;
-}
-.ghub{
-	width: 250px;
-}
-.wrapper h3{
-	text-align: center;
-}
-h2, h3 {
-	text-align: center;
-	color: white;
-}
-hr {
-	height:3px;
-	border-width:0;
-	color:gray;
-	background-color:gray;
-	width:225px; 
-	margin: auto;
-	margin-bottom: 5px
-}
-#contact{
-	text-align: center;
-}
-.downloadbtn{
-	background-color: lightgray;
-	border-radius: 12px;
-	border: none;
-	padding: 15px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	margin: 4px 2px;
-	cursor: pointer;
-}
+	.wrapper{
+		border-style: ridge;
+		border-color: white;
+		margin-bottom: 10px;
+		overflow-wrap: normal;
+		width: 100%;
+		height: auto;
+		padding: 10px;
+	}
+	.wrapper img{
+		max-width: 40%;
+		display: block;
+		margin: auto;
+	}
+	.wrapper:hover{ 
+		background-color: gray;
+	}
+	.ghub{
+		width: 250px;
+	}
+	.wrapper h3{
+		text-align: center;
+	}
+	h2, h3 {
+		text-align: center;
+		color: white;
+	}
+	hr {
+		height:3px;
+		border-width:0;
+		color:gray;
+		background-color:gray;
+		width:225px; 
+		margin: auto;
+		margin-bottom: 5px
+	}
+	#contact{
+		text-align: center;
+	}
+	.downloadbtn{
+		background-color: lightgray;
+		border-radius: 12px;
+		border: none;
+		padding: 15px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	}
 
 	 /*Acknowledgement;
 	 the webiste was created using a template from w3schools
